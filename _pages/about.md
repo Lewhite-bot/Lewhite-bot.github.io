@@ -1,0 +1,84 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
+I am a Ph.D. candidate in Mechanical Engineering at Beijing Institute of Technology, advised by Prof. Changsheng Li, and a member of the Medical Robotics Laboratory. 
+
+My research interests lie in computer vision and its applications in medical image analysis and intelligent surgical systems. My recent work focuses on surgical scene understanding, including surgical instrument and anatomical structure segmentation, self-supervised depth estimation for endoscopic images, and visual perception methods for robotic-assisted surgery.
+
+
+# 🔥 News
+
+- **2026** — Serving as **Student Reviewer for MICCAI 2026 (International Conference on Medical Image Computing and Computer-Assisted Intervention)**.
+- **2025.12** — Awarded the **National Scholarship for Doctoral Students**.
+- **2025.07** — Our paper was published in *Medical Image Analysis (MIA)*.
+- **2024.07** — Our paper was published in *IEEE Journal of Biomedical and Health Informatics (JBHI)*.
+
+# 📝 Publications 
+
+### Journal Articles
+
+**Xue Li**, Wenxin Chen, Xingguang Duan, Xiaoyi Gu*, Changsheng Li*.  
+Collaborative Surgical Instrument Segmentation for Monocular Depth Estimation in Minimally Invasive Surgery.  
+*Medical Image Analysis*, 2025.
+
+Lianliang Li, **Xue Li**, Wenxin Chen, et al.  
+MambaMatch: A Novel Model for Semi-Supervised Spinal Cortical and Cancellous Bone Segmentation.  
+*IEEE Transactions on Medical Imaging*, 2026.
+
+Changsheng Li, **Xue Li**, Kaifeng Wang, Wenxin Chen, Xingguang Duan*.  
+Self-Supervised Monocular Depth Estimation for Endoscopic Imaging.  
+*IEEE Journal of Biomedical and Health Informatics*, 2024.
+
+**Xue Li**, Lianliang Li, Xingguang Duan, Changsheng Li*.  
+Enhancement of Nerve Visualization in Percutaneous Endoscopic Lumbar Discectomy via Semi-supervised Segmentation.  
+*Cyborg and Bionic Systems*. (Major Revision)
+
+---
+
+### Conference Papers
+
+**Xue Li**, Yuxin Ji, Qingyao Liu, Xingguang Duan*, Changsheng Li*.  
+Surgical Instrument Segmentation Algorithm Based on Improved DeepLab-V3+.  
+*International Conference on Biomimetic Intelligence and Robotics (ICBIR)*, 2024.  
+🏆 Best Paper Award.
+
+**Xue Li**, Zihan Zhou, Kaifeng Wang, Haiying Liu, Yalong Qian, Xingguang Duan*, Changsheng Li*.  
+An Improved Image Super-Resolution Algorithm for Percutaneous Endoscopic Lumbar Discectomy.  
+*International Conference on Cognitive Systems and Information Processing (ICCSIP)*, 2023.  
+🏆 Best Robotics Paper Award.
+
+# 🎖 Honors and Awards
+### Honors and Awards
+
+- **2025** — National Scholarship for Doctoral Students, China
+- **2024** — First Prize, iCAN International Innovation and Entrepreneurship Competition (National Final)
+- **2024** — First Prize, “Jichuang Cup” Medical Device Technology Innovation and Application Skills Competition
+- **2024** — First Prize, China Medical Device Innovation and Entrepreneurship Competition (University Track)
+- **2023** — First Prize, Intelligent Robotics Innovation and Entrepreneurship Invitational Competition, China International Digital Economy Expo
+- **2023** — First Prize, Shenhao Cup Chinese Graduate Robotics Innovation Design Competition (National Final)
+
+
+
+# 💬 Conference Participation
+### Academic Activities
+
+- **2025** — RCAR 2025, Toyama, Japan (Paper Presentation)
+- **2025** — BIT National Doctoral Academic Forum, Beijing, China (Paper Presentation)
+- **2024** — ICBIR+MRF 2024, Linzhi, China (Paper Presentation)
+- **2023** — ICCSIP 2023, Luoyang, China (Paper Presentation)
