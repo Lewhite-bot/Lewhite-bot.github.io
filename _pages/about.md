@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Mechanical Engineering at Beijing Institute of Technology, advised by Prof. Changsheng Li, and a member of the Medical Robotics Laboratory. 
+I am a Ph.D. candidate in Mechanical Engineering at Beijing Institute of Technology, advised by Associate Professor Changsheng Li, and a member of the [Medical Robotics Laboratory](https://mr.bit.edu.cn/index.htm).
 
 My research interests lie in computer vision and its applications in medical image analysis and intelligent surgical systems. My recent work focuses on surgical scene understanding, including surgical instrument and anatomical structure segmentation, self-supervised depth estimation for endoscopic images, and visual perception methods for robotic-assisted surgery.
 
 
 # 🔥 News
 
-- **2026** — Serving as **Student Reviewer for MICCAI 2026 (International Conference on Medical Image Computing and Computer-Assisted Intervention)**.
+- **2026** — Serving as **Student Reviewer for MICCAI 2026**.
 - **2025.12** — Awarded the **National Scholarship for Doctoral Students**.
 - **2025.07** — Our paper was published in *Medical Image Analysis (MIA)*.
 - **2024.07** — Our paper was published in *IEEE Journal of Biomedical and Health Informatics (JBHI)*.
@@ -37,7 +37,7 @@ My research interests lie in computer vision and its applications in medical ima
 🧠 **Xue Li**, Wenxin Chen, Xingguang Duan, Xiaoyi Gu*, Changsheng Li*.  
 *Collaborative Surgical Instrument Segmentation for Monocular Depth Estimation in Minimally Invasive Surgery.*  
 Medical Image Analysis, 2025.  
-📄 [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841525003111) |
+📄 [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841525003111) 
 
 ---
 
@@ -61,6 +61,13 @@ IEEE Transactions on Medical Imaging, 2026.
 
 ### Conference Papers
 
+**Xue Li**, Zihan Zhou, Kaifeng Wang, Haiying Liu, Yalong Qian, Xingguang Duan*, Changsheng Li*.  
+An Improved Image Super-Resolution Algorithm for Percutaneous Endoscopic Lumbar Discectomy.  
+*International Conference on Cognitive Systems and Information Processing (ICCSIP)*, 2023.  
+🏆 Best Robotics Paper Award.
+
+---
+
 **Xue Li**, Yuxin Ji, Qingyao Liu, Xingguang Duan*, Changsheng Li*.  
 Surgical Instrument Segmentation Algorithm Based on Improved DeepLab-V3+.  
 *International Conference on Biomimetic Intelligence and Robotics (ICBIR)*, 2024.  
@@ -68,10 +75,10 @@ Surgical Instrument Segmentation Algorithm Based on Improved DeepLab-V3+.
 
 ---
 
-**Xue Li**, Zihan Zhou, Kaifeng Wang, Haiying Liu, Yalong Qian, Xingguang Duan*, Changsheng Li*.  
-An Improved Image Super-Resolution Algorithm for Percutaneous Endoscopic Lumbar Discectomy.  
-*International Conference on Cognitive Systems and Information Processing (ICCSIP)*, 2023.  
-🏆 Best Robotics Paper Award.
+Xingguang Duan, Lianliang Li, **Xue Li**, Sida Lyu, Lizhong Ding, Changsheng Li*.  
+DINOv2-Enhanced Surgical Instrument Segmentation with Lightweight CNN.  
+*International Conference on Cognitive Systems and Information Processing (ICCSIP)*, 2025.  
+🏆 Best Paper in Intelligent Roboties.
 
 # 🎖 Honors and Awards
 ### Honors and Awards
@@ -92,3 +99,8 @@ An Improved Image Super-Resolution Algorithm for Percutaneous Endoscopic Lumbar 
 - **2025** — BIT National Doctoral Academic Forum, Beijing, China (Paper Presentation)
 - **2024** — ICBIR+MRF 2024, Linzhi, China (Paper Presentation)
 - **2023** — ICCSIP 2023, Luoyang, China (Paper Presentation)
+
+# 📊 Professional Service
+**Secretary**, Artificial Intelligence and Robotics Education Committee  
+Chinese Society for Education Development Strategy, 2024–Present
+**Student Reviewer** for MICCAI 2026
