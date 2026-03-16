@@ -37,21 +37,21 @@ My research interests lie in computer vision and its applications in medical ima
 🧠 **Xue Li**, Wenxin Chen, Xingguang Duan, Xiaoyi Gu*, Changsheng Li*.  
 *Collaborative Surgical Instrument Segmentation for Monocular Depth Estimation in Minimally Invasive Surgery.*  
 Medical Image Analysis, 2025.  
-📄 [PDF](files/papers/MIA.pdf) | 🔗 [DOI](#) 
+📄 [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841525003111) |
 
 ---
 
 Changsheng Li, **Xue Li**, Kaifeng Wang, Wenxin Chen, Xingguang Duan*.  
 *Self-Supervised Monocular Depth Estimation for Endoscopic Imaging.*  
 IEEE Journal of Biomedical and Health Informatics, 2024.  
-📄 [PDF](files/papers/JBHI.pdf) | 🔗 [DOI](#)
+📄 [Paper Link](https://ieeexplore.ieee.org/document/10613362) 
 
 ---
 
 Lianliang Li, **Xue Li**, Wenxin Chen, et al.  
 *MambaMatch: A Novel Model for Semi-Supervised Spinal Cortical and Cancellous Bone Segmentation.*  
 IEEE Transactions on Medical Imaging, 2026.  
-📄 [PDF](files/papers/JBHI.pdf) | 🔗 [DOI](10.1109/TMI.2026.3666480)
+📄 [Paper Link](https://ieeexplore.ieee.org/document/11408097)
 
 
 
@@ -65,6 +65,8 @@ IEEE Transactions on Medical Imaging, 2026.
 Surgical Instrument Segmentation Algorithm Based on Improved DeepLab-V3+.  
 *International Conference on Biomimetic Intelligence and Robotics (ICBIR)*, 2024.  
 🏆 Best Paper Award.
+
+---
 
 **Xue Li**, Zihan Zhou, Kaifeng Wang, Haiying Liu, Yalong Qian, Xingguang Duan*, Changsheng Li*.  
 An Improved Image Super-Resolution Algorithm for Percutaneous Endoscopic Lumbar Discectomy.  
