@@ -101,6 +101,6 @@ DINOv2-Enhanced Surgical Instrument Segmentation with Lightweight CNN.
 - **2023** — ICCSIP 2023, Luoyang, China (Paper Presentation)
 
 # 📊 Professional Service
-**Secretary**, Artificial Intelligence and Robotics Education Committee  
-Chinese Society for Education Development Strategy, 2024–Present
+**Secretary**, Artificial Intelligence and Robotics Education Committee Chinese Society for Education Development Strategy, 2024–Present
+
 **Student Reviewer** for MICCAI 2026
