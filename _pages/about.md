@@ -33,21 +33,29 @@ My research interests lie in computer vision and its applications in medical ima
 
 ### Journal Articles
 
-**Xue Li**, Wenxin Chen, Xingguang Duan, Xiaoyi Gu*, Changsheng Li*.  
-Collaborative Surgical Instrument Segmentation for Monocular Depth Estimation in Minimally Invasive Surgery.  
-*Medical Image Analysis*, 2025.
 
-Lianliang Li, **Xue Li**, Wenxin Chen, et al.  
-MambaMatch: A Novel Model for Semi-Supervised Spinal Cortical and Cancellous Bone Segmentation.  
-*IEEE Transactions on Medical Imaging*, 2026.
+🧠 **Xue Li**, Wenxin Chen, Xingguang Duan, Xiaoyi Gu*, Changsheng Li*.  
+*Collaborative Surgical Instrument Segmentation for Monocular Depth Estimation in Minimally Invasive Surgery.*  
+Medical Image Analysis, 2025.  
+📄 [PDF](files/papers/MIA.pdf) | 🔗 [DOI](#) 
+
+---
 
 Changsheng Li, **Xue Li**, Kaifeng Wang, Wenxin Chen, Xingguang Duan*.  
-Self-Supervised Monocular Depth Estimation for Endoscopic Imaging.  
-*IEEE Journal of Biomedical and Health Informatics*, 2024.
+*Self-Supervised Monocular Depth Estimation for Endoscopic Imaging.*  
+IEEE Journal of Biomedical and Health Informatics, 2024.  
+📄 [PDF](files/papers/JBHI.pdf) | 🔗 [DOI](#)
 
-**Xue Li**, Lianliang Li, Xingguang Duan, Changsheng Li*.  
-Enhancement of Nerve Visualization in Percutaneous Endoscopic Lumbar Discectomy via Semi-supervised Segmentation.  
-*Cyborg and Bionic Systems*. (Major Revision)
+---
+
+Lianliang Li, **Xue Li**, Wenxin Chen, et al.  
+*MambaMatch: A Novel Model for Semi-Supervised Spinal Cortical and Cancellous Bone Segmentation.*  
+IEEE Transactions on Medical Imaging, 2026.  
+📄 [PDF](files/papers/JBHI.pdf) | 🔗 [DOI](10.1109/TMI.2026.3666480)
+
+
+
+
 
 ---
 

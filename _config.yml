@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Xue Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "lewhite/lewhite.github.io"
+description              : "Medical Image Analysis, Intelligent Surgical Robotics "
+repository               : "Lewhite-bot/Lewhite-bot.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xue Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD student in Surgical Robotics"
+  bio              : "BIT Ph.D. student"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
