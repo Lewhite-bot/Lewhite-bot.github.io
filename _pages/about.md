@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Mechanical Engineering at Beijing Institute of Technology, advised by Associate Professor Changsheng Li, and a member of the [Medical Robotics Laboratory](https://mr.bit.edu.cn/index.htm).
+I am a Ph.D. candidate in Mechanical Engineering at Beijing Institute of Technology, advised by [Associate Professor Changsheng Li](https://scholar.google.com/citations?user=sMpQ8q0AAAAJ&hl=en&oi=sra), and a member of the [Medical Robotics Laboratory](https://mr.bit.edu.cn/index.htm).
 
 My research interests lie in computer vision and its applications in medical image analysis and intelligent surgical systems. My recent work focuses on surgical scene understanding, including surgical instrument and anatomical structure segmentation, self-supervised depth estimation for endoscopic images, and visual perception methods for robotic-assisted surgery.
 
