@@ -25,7 +25,9 @@ My research interests lie in computer vision and its applications in medical ima
 # 🔥 News
 
 - **2026** — Serving as **Student Reviewer for MICCAI 2026**.
+- **2026.02** — Our paper was published in *IEEE Transactions on Medical Imaging (TMI)*.
 - **2025.12** — Awarded the **National Scholarship for Doctoral Students**.
+- **2025.08** — Our work won the **Best Paper in Intelligent Roboties** at ICBIR 2025.
 - **2025.07** — Our paper was published in *Medical Image Analysis (MIA)*.
 - **2024.07** — Our paper was published in *IEEE Journal of Biomedical and Health Informatics (JBHI)*.
 
@@ -41,14 +43,14 @@ Medical Image Analysis, 2025.
 
 ---
 
-Changsheng Li, **Xue Li**, Kaifeng Wang, Wenxin Chen, Xingguang Duan*.  
+🧠 Changsheng Li, **Xue Li**, Kaifeng Wang, Wenxin Chen, Xingguang Duan*.  
 *Self-Supervised Monocular Depth Estimation for Endoscopic Imaging.*  
 IEEE Journal of Biomedical and Health Informatics, 2024.  
 📄 [Paper Link](https://ieeexplore.ieee.org/document/10613362) 
 
 ---
 
-Lianliang Li, **Xue Li**, Wenxin Chen, et al.  
+🧠 Lianliang Li, **Xue Li**, Wenxin Chen, et al.  
 *MambaMatch: A Novel Model for Semi-Supervised Spinal Cortical and Cancellous Bone Segmentation.*  
 IEEE Transactions on Medical Imaging, 2026.  
 📄 [Paper Link](https://ieeexplore.ieee.org/document/11408097)
